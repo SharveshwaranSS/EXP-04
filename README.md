@@ -37,16 +37,40 @@ PROCEDURE:
 CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
+<img width="1418" height="729" alt="Screenshot 2025-10-21 233416" src="https://github.com/user-attachments/assets/c93c3886-ba8d-4a9b-9915-4108d7453c82" />
+
+Half wave rectifier without filter:
+<img width="1237" height="704" alt="Screenshot 2025-10-21 233444" src="https://github.com/user-attachments/assets/e48b84aa-533e-4ac5-b88d-0745cb8d7669" />
+
+<img width="618" height="505" alt="Screenshot 2025-10-21 234044" src="https://github.com/user-attachments/assets/06199d38-a74e-4633-976d-529ab649b0f3" />
 
 Bridge rectifier with filter:
+<img width="1134" height="522" alt="Screenshot 2025-10-21 233430" src="https://github.com/user-attachments/assets/98462dbf-c26a-43c8-9d01-8d64555c5f43" />
+
+Bridge rectifier without filter:
+<img width="1052" height="615" alt="Screenshot 2025-10-21 233457" src="https://github.com/user-attachments/assets/dda5a57a-9f3c-4879-bb9b-b8f58be1467c" />
+
+<img width="705" height="523" alt="Screenshot 2025-10-21 234059" src="https://github.com/user-attachments/assets/6b31159d-716f-43a8-aa9b-c82374949f47" />
 
 TABULAR COLUMN
-Rectifier without filter
+Half wave Rectifier:
+<img width="1457" height="521" alt="Screenshot 2025-10-21 233823" src="https://github.com/user-attachments/assets/6db71550-fb4f-4e45-be61-644fd1f450dd" />
+
 TABULAR COLUMN
-Rectifier with filter
+Half Rectifier:
+<img width="1357" height="453" alt="Screenshot 2025-10-21 233842" src="https://github.com/user-attachments/assets/6e3a1e21-0dd8-4d9a-85dc-879c77247b5f" />
 
-WAVEFORM:
+MODEL GRAPH FOR HALF WAVE RECTIFIER:
+<img width="1162" height="538" alt="Screenshot 2025-10-21 234510" src="https://github.com/user-attachments/assets/703cac18-34f0-4b83-8928-b2b2c43078e3" />
 
+MODEL GRAPH FOR HALF WAVE RECTIFIRE:
+<img width="1219" height="556" alt="Screenshot 2025-10-21 234523" src="https://github.com/user-attachments/assets/0ee734e2-b910-4099-9aa0-d93e2b225cd0" />
+
+WAVEFORM FOR HALF WAVE RECTIFIER:
+<img width="1471" height="740" alt="Screenshot 2025-10-21 234115" src="https://github.com/user-attachments/assets/f0b0768d-90cd-44b4-a0d2-2d23d61704af" />
+
+WAVEFORM FOR FULL WAVE RECTIFIER:
+<img width="1422" height="708" alt="Screenshot 2025-10-21 234139" src="https://github.com/user-attachments/assets/26544edc-c80a-4e5b-bbea-cc1fbfdc901a" />
 
 RESULT:
 
